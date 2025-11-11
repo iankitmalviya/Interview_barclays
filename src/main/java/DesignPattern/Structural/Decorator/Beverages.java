@@ -1,5 +1,6 @@
 package DesignPattern.Structural.Decorator;
 
-public interface Decorator extends Beverages{
+public interface Beverages {
+    int cost();
 
 }
