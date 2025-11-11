@@ -1,4 +1,4 @@
-package DesignPattern.Structural.Decorator;
+package DesignPattern.Structural.Decorator.ex1;
 
 public class main  {
     public static void main(String[] args) {

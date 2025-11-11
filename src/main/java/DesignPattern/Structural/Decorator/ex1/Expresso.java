@@ -1,4 +1,4 @@
-package DesignPattern.Structural.Decorator;
+package DesignPattern.Structural.Decorator.ex1;
 
 public class Expresso implements Beverages{
 
